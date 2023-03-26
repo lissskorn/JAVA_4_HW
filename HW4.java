@@ -68,7 +68,7 @@ public class HW4 {
         System.out.println("\nSorting of numbers: ");
         for (Passport p: passport) {
             System.out.println(p);
-    }
+        }
     }
 }
 
